@@ -1,0 +1,3 @@
+## Abstract
+
+5G MIMO technology has characteristics that are very favorable for performing localization. This project focuses on a previous work in 5G MIMO localization. Additional analysis of the previous work's performance is provided herein by varying the number of antenna elements, the transmitted frequencies and beamformers used. The original work is augmented using a beam switching technique to improve the localization and possibly simulate a real-world scenario which additionally involves high quality communications via a beamformer. This document also serves as a gentle introduction and tutorial to 5G localization, as it provides a documented Python implementation of the algorithms discussed herein, along with explanations of their prerequisite concepts.
